@@ -1,0 +1,4 @@
+﻿2212467*Lê Hữu*Thịnh*05/12/2004*0*CTK46B*064212345678*0988123456*01 Hẻm Ma Đạo*Mạng máy tính,Hệ điều hành
+2212482*Nguyễn Hữu*Trường*12/05/2004*1*CTK46A*012398765432*0633321456*12 Đường Troll*Lập trình mạng,Đồ án cơ sở
+2212444*Ngô Đào Bảo*Quân*11/14/2024*1*CTK46A*068244445555*0988444555*35 Đảo Hoang Tàn*Hệ điều hành,Lập trình trên thiết bị di động
+

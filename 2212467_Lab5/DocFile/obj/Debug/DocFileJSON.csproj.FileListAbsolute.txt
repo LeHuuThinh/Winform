@@ -1,0 +1,13 @@
+Z:\DocFile\DocFile\bin\Debug\DocFile.exe.config
+Z:\DocFile\DocFile\bin\Debug\DocFile.exe
+Z:\DocFile\DocFile\bin\Debug\DocFile.pdb
+Z:\DocFile\DocFile\bin\Debug\Newtonsoft.Json.dll
+Z:\DocFile\DocFile\bin\Debug\Newtonsoft.Json.xml
+Z:\DocFile\DocFile\obj\Debug\DocFileJSON.csproj.AssemblyReference.cache
+Z:\DocFile\DocFile\obj\Debug\DocFile.Form1.resources
+Z:\DocFile\DocFile\obj\Debug\DocFile.Properties.Resources.resources
+Z:\DocFile\DocFile\obj\Debug\DocFileJSON.csproj.GenerateResource.cache
+Z:\DocFile\DocFile\obj\Debug\DocFileJSON.csproj.CoreCompileInputs.cache
+Z:\DocFile\DocFile\obj\Debug\DocFileJSON.csproj.CopyComplete
+Z:\DocFile\DocFile\obj\Debug\DocFile.exe
+Z:\DocFile\DocFile\obj\Debug\DocFile.pdb

@@ -1,0 +1,14 @@
+Z:\DocFile\DocFileXML\bin\Debug\net8.0\DocFileXML.exe
+Z:\DocFile\DocFileXML\bin\Debug\net8.0\DocFileXML.deps.json
+Z:\DocFile\DocFileXML\bin\Debug\net8.0\DocFileXML.runtimeconfig.json
+Z:\DocFile\DocFileXML\bin\Debug\net8.0\DocFileXML.dll
+Z:\DocFile\DocFileXML\bin\Debug\net8.0\DocFileXML.pdb
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.AssemblyInfoInputs.cache
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.AssemblyInfo.cs
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.csproj.CoreCompileInputs.cache
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.dll
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\refint\DocFileXML.dll
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.pdb
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\DocFileXML.genruntimeconfig.cache
+Z:\DocFile\DocFileXML\obj\Debug\net8.0\ref\DocFileXML.dll
